@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BC73845-5574-4BD7-BED3-2CA9860D2050</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sunshine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF3F617FF9932BB46CBDA2A5E12E145E2496524E</key>
+		<string>https://github.com/timmy11029/SunshineView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sunshine.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF3F617FF9932BB46CBDA2A5E12E145E2496524E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/timmy11029/SunshineView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF3F617FF9932BB46CBDA2A5E12E145E2496524E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF3F617FF9932BB46CBDA2A5E12E145E2496524E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SunshineView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
